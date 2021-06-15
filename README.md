@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Md. Shihab Mahmud
 - 👀 I’m interested in Computer Networking & Web Design.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently studying at Dept. of CSE at DIU.
+
 
 <!---
 TheCoders001/TheCoders001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
